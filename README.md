@@ -5,7 +5,7 @@ Contact: Amit Kahana, amitmiti@gmail.com;
 Lior Segev, lior.segev@weizmann.ac.il.
 
 Additional sites:
-https://www.weizmann.ac.il/molgen/Lancet/research-activities/systems-protobiology
+https://www.weizmann.ac.il/molgen/Lancet/research-activities/systems-protobiology, 
 http://en.wikipedia.org/wiki/Gard_model .
 
 -------------------------------------------------------------------------------
