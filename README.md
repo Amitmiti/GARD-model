@@ -1,8 +1,12 @@
 # GARD-model
 Code repository for the scientific paper "Protobiotic network reproducers are compositional attractors: enhanced probability for life’s origin".
 
-Contact: Amit Kahana, amitmiti@gmail.com; Lior Segev, lior.segev@weizmann.ac.il.
-Additional sites: https://www.weizmann.ac.il/molgen/Lancet/research-activities/systems-protobiology, http://en.wikipedia.org/wiki/Gard_model .
+Contact: Amit Kahana, amitmiti@gmail.com;
+Lior Segev, lior.segev@weizmann.ac.il.
+
+Additional sites:
+https://www.weizmann.ac.il/molgen/Lancet/research-activities/systems-protobiology
+http://en.wikipedia.org/wiki/Gard_model .
 
 -------------------------------------------------------------------------------
 
